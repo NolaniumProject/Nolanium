@@ -6,7 +6,7 @@ LICENSES:
 // Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers 
 // Copyright (c) 2014-2018, The Monero Project 
 // Copyright (c) 2018-2019, The TurtleCoin Developers
-// Copyright (c) 2023, The Nolanium Team
+// Copyright (c) 2024, The Nolanium Team
 ```
 
 [Website](https://nolanium.xyz) | [Official Pool](https://pool.nolanium.xyz/) | [Official Block Explorer](https://explorer.nolanium.xyz/) | [Discord](https://discord.gg/YKh5GjTGmU) | [Twitter](https://twitter.com/NolaniumProject)
