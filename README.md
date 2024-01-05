@@ -11,9 +11,9 @@ LICENSES:
 
 [Website](https://nolanium.xyz) | [Official Pool](https://pool.nolanium.xyz/) | [Official Block Explorer](https://explorer.nolanium.xyz/) | [Discord](https://discord.gg/YKh5GjTGmU) | [Twitter](https://twitter.com/NolaniumProject)
 
-![Download Count](https://img.shields.io/github/downloads/Nolanium-Network/Nolanium/total.svg)
-![Open Issue Count](https://img.shields.io/github/issues/Nolanium-Network/Nolanium)
-![Version](https://img.shields.io/github/v/release/Nolanium-Network/Nolanium)
+![Download Count](https://img.shields.io/github/downloads/NolaniumProject/Nolanium/total.svg)
+![Open Issue Count](https://img.shields.io/github/issues/NolaniumProject/Nolanium)
+![Version](https://img.shields.io/github/v/release/NolaniumProject/Nolanium)
 
 **** 
 
