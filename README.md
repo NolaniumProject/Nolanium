@@ -9,7 +9,7 @@ LICENSES:
 // Copyright (c) 2023, The Nolanium Team
 ```
 
-[Website](https://nolanium.xyz) | [Official Pool](https://pool.nolanium.xyz/) | [Official Block Explorer](https://explorer.nolanium.xyz/) | [Discord](https://discord.gg/YKh5GjTGmU) | [Twitter](https://twitter.com/Nolanium)
+[Website](https://nolanium.xyz) | [Official Pool](https://pool.nolanium.xyz/) | [Official Block Explorer](https://explorer.nolanium.xyz/) | [Discord](https://discord.gg/YKh5GjTGmU) | [Twitter](https://twitter.com/NolaniumProject)
 
 ![Download Count](https://img.shields.io/github/downloads/Nolanium-Network/Nolanium/total.svg)
 ![Open Issue Count](https://img.shields.io/github/issues/Nolanium-Network/Nolanium)
@@ -21,7 +21,7 @@ LICENSES:
 
 |Ticker|Decimals|Supply|Block Reward|Block Time|P2P Port|RPC Port|Service Port|Algo
 |--|--|--|--|--|--|--|--|--|
-|NLM|8|21,000,000 NLM|1 NLM|10 Seconds|29000|29001|29002|Cryptonight UPX/2|
+|NLM|8|80,000,000 NLM|4 NLM|30 Seconds|21000|21001|21002|Cryptonight Turtle|
 
 ****
 
