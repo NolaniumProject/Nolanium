@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/Nolanium-Network/Nolanium/main/src/config/logo-small.png)
+![image](https://raw.githubusercontent.com/NolaniumProject/Nolanium/main/src/config/logo-small.png)
 
 ```
 LICENSES:
