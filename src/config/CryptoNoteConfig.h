@@ -67,7 +67,7 @@ namespace CryptoNote
     static_assert(EMISSION_SPEED_FACTOR_V2 <= 8 * sizeof(uint64_t), "Bad EMISSION_SPEED_FACTOR_V2");
 
     const char GENESIS_COINBASE_TX_HEX[] = 
-      "010a01ff00018088debe01029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121014c6d73eb620928803f3e87b2ed74c35fe3ea85eb2ab34e63cbdbd23cc0f1d6de";
+      "010a01ff00018088debe01029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121015f345651bdefec4e8fd9a5fe41c3985eb4a51351e50a72720fa5f80f42f6230c";
 
     static_assert(
       sizeof(GENESIS_COINBASE_TX_HEX) / sizeof(*GENESIS_COINBASE_TX_HEX) != 1,
@@ -76,7 +76,7 @@ namespace CryptoNote
     /* This is the unix timestamp of the first "mined" block (technically block 2, not the genesis block)
        You can get this value by doing "print_block 2" in Nolaniumd. It is used to know what timestamp
        to import from when the block height cannot be found in the node or the node is offline. */
-    const uint64_t GENESIS_BLOCK_TIMESTAMP                                 = 1704443439;                    /* 09:30 AM GMT+1, 5th of January 2024 */
+    const uint64_t GENESIS_BLOCK_TIMESTAMP                                 = 1704803400;                    /* 01:30 PM GMT+1, 9th of January 2024 */
     const size_t   CRYPTONOTE_REWARD_BLOCKS_WINDOW                         = 100;
     const size_t   CRYPTONOTE_BLOCK_GRANTED_FULL_REWARD_ZONE               = 100000;                        /* size of block (bytes) after which reward for block calculated using block size */
     const size_t   CRYPTONOTE_BLOCK_GRANTED_FULL_REWARD_ZONE_V2            = 20000;
