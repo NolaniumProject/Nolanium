@@ -220,7 +220,7 @@ void sendTransaction(
     {
         std::cout << SuccessMsg("\nTransaction has been sent!\n")
                   << WhiteMsg("Hash: ") << SuccessMsg(hash) << "\n"
-                  << WhiteMsg("Link: ") << SuccessMsg("https://explorer.nolanium.xyz/block.html?hash=") << SuccessMsg(hash) << "\n" << std::endl;
+                  << WhiteMsg("Link: ") << SuccessMsg("https://explorer.nolanium.xyz/transaction.html?hash=") << SuccessMsg(hash) << "\n" << std::endl;
     }
 }
 
